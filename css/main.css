@@ -6,6 +6,10 @@ body {
 
 nav {
     margin-top: 50px;
+    background: black;
+}
+
+nav li {
     background: white;
 }
 
