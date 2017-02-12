@@ -3,12 +3,12 @@
 <ul>
 	{% for mypage in nav_sorted %}
         {% if mypage.nav == true %}
-            <li>
 			{% if mypage.url == page.url %}
-				<a id="curpage" href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
+				<li id="curpage">
 			{% else %}
-				<a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
+	            <li>
 			{% endif %}
+				<a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
 				{{ mypage.title }}</a>
         {% endif %}
     {% endfor %}
