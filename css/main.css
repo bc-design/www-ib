@@ -16,9 +16,11 @@ nav {
 }
 
 nav li {
+    display: inline;
     background: white;
-    padding: 5px;
+    padding: 3px;
     border-radius: 5px 5px 0px 0px;
+    margin-right: 10px;
 }
 
 nav ul, footer ul {
@@ -28,9 +30,9 @@ nav ul, footer ul {
     font-weight: bold;
 
 }
-nav ul li, footer ul li {
+
+footer ul li {
     display: inline;
-    margin-right: 10px;
 }
 
 a {
