@@ -25,7 +25,7 @@ nav ul {
 nav li {
     display: inline;
     background: white;
-    padding: 3px;
+    padding: 3px 3px 0px 3px;
     border-radius: 5px 5px 0px 0px;
     margin-right: 10px;
     font-size: 1.2em;
@@ -35,7 +35,7 @@ nav li {
 #curpage {
 	background: #FFD700;
 	text-decoration: none;
-	color: black;
+	font-color: black;
 }
 
 
