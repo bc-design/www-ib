@@ -1,7 +1,9 @@
 <ul>
 	{% for mypage in site.pages %}
         {% if mypage.nav == true %}
-            <li>< a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ page.title }}">
+            <li>
+				<a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
+			{{ mypage.title }}</a>
         {% endif %}
     {% endfor %}
 </ul>
