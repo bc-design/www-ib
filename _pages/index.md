@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Welcome
-nav: true
-permalink: {{ site.baseurl }}
 ---
 
 ## Hello World
