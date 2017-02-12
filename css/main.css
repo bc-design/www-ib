@@ -32,7 +32,7 @@ nav li {
 }
 
 
-li #curpage {
+#curpage {
 	background: yellow;
 }
 
