@@ -1,5 +1,7 @@
+{% assign nav_sorted = site.pages | sort: 'navsort' %}
+
 <ul>
-	{% for mypage in site.pages | sort: 'navsort' %}
+	{% for mypage in nav_sorted %}
         {% if mypage.nav == true %}
             <li>
 				<a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
