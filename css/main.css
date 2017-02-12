@@ -43,8 +43,9 @@ a:hover {
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 2.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin: 15px;z
 }
 
 p {
