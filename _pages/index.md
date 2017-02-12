@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Welcome
-nav: true
 permalink: /
+nav: true
+navsort: 0
 ---
 
 ## Hello World

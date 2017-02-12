@@ -1,8 +1,9 @@
 ---
 layout: default
 title: About
-nav: true
 permalink: about
+nav: true
+navsort: 1
 ---
 
 ## More Stuff

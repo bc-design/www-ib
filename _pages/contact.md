@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Contact
-nav: true
 permalink: contact
+nav: true
+navsort: 2
 ---
 
 ## Fun Stuff

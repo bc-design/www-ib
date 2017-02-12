@@ -1,5 +1,5 @@
 <ul>
-	{% for mypage in site.pages %}
+	{% for mypage in site.pages | sort: 'navsort' %}
         {% if mypage.nav == true %}
             <li>
 				<a href="{{ site.baseurl }}{{ mypage.url }}" title="{{ mypage.title }}">
