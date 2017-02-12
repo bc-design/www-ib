@@ -33,7 +33,9 @@ nav li {
 
 
 #curpage {
-	background: yellow;
+	background: #FFD700;
+	text-decoration: none;
+	color: black;
 }
 
 
