@@ -1,0 +1,9 @@
+name: Indivisible Berkeley
+markdown: kramdown
+encoding: utf-8
+timezone: America/Los_Angeles
+
+collections:
+  pages:
+    output: true
+

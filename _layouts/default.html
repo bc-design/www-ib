@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- it's 2016, time to use Unicode! -->
+    <meta charset="utf-8">
+
+    <!-- a liquid tag for inserting the scripts for enabling MathJax -->
+    {% if page.math %}
+    	{% include math.html %}
+    {% endif %}
+
+    <!-- a "liquid tag" for inserting text from the metadata
+      provided in the markdown doc's YAML frontmatter -->
+    <title>{{ page.title }}</title>
+
+	<!-- link to main stylesheet -->
+	{% include main.css %}
+    <script src="js/ganalytics.js"></script>
+  </head>
+
+  <body>
+    <nav>
+      {% include nav.html %}
+    </nav>
+
+    <h1>Indivisible Berkeley: {{ page.title }}</h1>
+
+    <div class="container">
+      <!-- liquid: insert text from markdown doc -->
+      {{ content }}
+    </div> <!-- /.container -->
+
+    <footer>
+      <!-- liquid: insert text from _includes/footer.html -->
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>
