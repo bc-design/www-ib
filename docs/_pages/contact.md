@@ -38,4 +38,4 @@ We also have internal teams that keep the organization running smoothly.  Email 
 
 ## Slack
 
-Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.  If you'd like to learn more, [join our Slack group](https://indivisible-berkeley.slack.com/shared_invite/MTQxMDA2NTE0OTgzLTE0ODY4NTg4NTQtMjVkMWE2Y2IyZQ), check out [the Slack tutorial for new users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users), and ask questions in our `#_meta` channel.  If you'd rather not use Slack, no problem
+Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.  If you'd like to learn more, [join our Slack group](https://indivisible-berkeley.slack.com/shared_invite/MTQxMDA2NTE0OTgzLTE0ODY4NTg4NTQtMjVkMWE2Y2IyZQ), check out [the Slack tutorial for new users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users), and ask questions in our `#_meta` channel.  (If you'd rather not use Slack, no problem—major announcements will always come via email)
