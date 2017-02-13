@@ -35,3 +35,7 @@ We also have internal teams that keep the organization running smoothly.  Email 
 | Research & Insights            | [indivisibleberkeley+insights@gmail.com](mailto:indivisibleberkeley+insights@gmail.com)         |
 | Social Gatherings              | [indivisibleberkeley+social@gmail.com](mailto:indivisibleberkeley+social@gmail.com)             |
 | Trainings                      | [indivisibleberkeley+training@gmail.com](mailto:indivisibleberkeley+training@gmail.com)         |
+
+## Slack
+
+Slack is a messaging tool for teams, with customizable channels and notification settings to keep things organized.  If you'd like to learn more, [join our Slack group](https://indivisible-berkeley.slack.com/shared_invite/MTQxMDA2NTE0OTgzLTE0ODY4NTg4NTQtMjVkMWE2Y2IyZQ), check out [the Slack tutorial for new users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users), and ask questions in our `#_meta` channel.  If you'd rather not use Slack, no problem
