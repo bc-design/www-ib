@@ -1,3 +1,9 @@
+@media (min-width: 600px) {
+	.container {
+		width: 600px;
+	}
+}
+
 body {
     font-family: "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
     width: 100%;
