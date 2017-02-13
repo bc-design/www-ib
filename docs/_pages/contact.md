@@ -12,7 +12,7 @@ We are organizing into teams that will lead the effort to research and plan acti
 
 | Team Name                          | Facilitation Email                         | Email List                                       |
 |------------------------------------|--------------------------------------------|--------------------------------------------------|
-| Democratic Governance & Elections  | indivisibleberkeley+elections@gmail.com    |                                                  |
+| Democratic Governance & Elections  | indivisibleberkeley+elections@gmail.com    | indivisible-berkeley-elections@googlegroups.com  |
 | Economic Justice                   | indivisibleberkeley+economics@gmail.com    | indivisibleberkeley-economics@googlegroups.com   |
 | Education                          | indivisibleberkeley+education@gmail.com    |                                                  |
 | Healthcare                         | indivisibleberkeley+health@gmail.com       | indivisibleberkeley-healthcare@googlegroups.com  |
