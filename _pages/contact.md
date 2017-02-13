@@ -6,6 +6,33 @@ nav: true
 navsort: 2
 ---
 
-## Fun Stuff
+## Issue Teams
 
-Here is some stuff
+We are organizing into teams that will lead the effort to research and plan actions around specific issues that we are passionate about.  Email us to learn more about a team!
+
+| Team Name							| Facilitation Email                        |
+|-----------------------------------|-------------------------------------------|
+| Democratic Governance & Elections | indivisibleberkeley+elections@gmail.com   |
+| Economic Justice                  | indivisibleberkeley+economics@gmail.com   |
+| Education                         | indivisibleberkeley+education@gmail.com   |
+| Healthcare                        | indivisibleberkeley+health@gmail.com      |
+| Race & Immigration                | indivisibleberkeley+immigration@gmail.com |
+| Foreign Policy                    | indivisibleberkeley+foreign@gmail.com     |
+| Science & Environment             | indivisibleberkeley+environment@gmail.com |
+| Gender Equality & LGBTQ Rights    | indivisibleberkeley+equality@gmail.com    |
+
+
+## Internal Teams
+
+We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
+
+| Team Name							| Facilitation Email                      |
+|--------------------------------|--------------------------------------------|
+| Big Ideas & Innovation         | indivisibleberkeley+ideas@gmail.com        |
+| IT & Internal Communications   | indivisibleberkeley+it@gmail.com           |
+| Large Group Event Facilitation | indivisibleberkeley+events@gmail.com       |
+| Finance                        | indivisibleberkeley+finance@gmail.com      |
+| Partnerships                   | indivisibleberkeley+partnerships@gmail.com |
+| Research & Insights            | indivisibleberkeley+insights@gmail.com     |
+| Social Gatherings              | indivisibleberkeley+social@gmail.com       |
+| Trainings                      | indivisibleberkeley+training@gmail.com     |
