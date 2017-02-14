@@ -11,19 +11,19 @@ navsort: 2
 We are organizing into teams that will lead the effort to research and plan actions around specific issues that we are passionate about.  Email us to learn more about a team!
 
 
-| Team Name                          | Facilitation Email                                                                              | Email List                                                                                                  |
-|------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Democratic Governance & Elections  | [indivisibleberkeley+elections@gmail.com](mailto:indivisibleberkeley+elections@gmail.com)       | [indivisible-berkeley-elections@googlegroups.com](mailto:indivisible-berkeley-elections@googlegroups.com)   |
-| Economic Justice                   | [indivisibleberkeley+economics@gmail.com](mailto:indivisibleberkeley+economics@gmail.com)       | [indivisibleberkeley-economics@googlegroups.com](mailto:indivisibleberkeley-economics@googlegroups.com)     |
-| Education                          | [indivisibleberkeley+education@gmail.com](mailto:indivisibleberkeley+education@gmail.com)       |                                                                                                             |
-| Healthcare                         | [indivisibleberkeley+health@gmail.com](mailto:indivisibleberkeley+health@gmail.com)             |  [indivisibleberkeley-healthcare@googlegroups.com](mailto:indivisibleberkeley-healthcare@googlegroups.com)  |
-| Racism & Criminal Justice Reform   | [indivisibleberkeley+justice@gmail.com](mailto:indivisibleberkeley+justice@gmail.com)           |                                                                                                             |
-| Immigration                        | [indivisibleberkeley+immigration@gmail.com](mailto:indivisibleberkeley+immigration@gmail.com)   |                                                                                                             |
-| Foreign Policy                     | [indivisibleberkeley+foreign@gmail.com](mailto:indivisibleberkeley+foreign@gmail.com)           |                                                                                                             |
-| Science & Environment              | [indivisibleberkeley+environment@gmail.com](mailto:indivisibleberkeley+environment@gmail.com)   | [indivisibleberkeley-environment@googlegroups.com](mailto:indivisibleberkeley-environment@googlegroups.com) |
-| Gender Equality & LGBTQ Rights     | [indivisibleberkeley+equality@gmail.com](mailto:indivisibleberkeley+equality@gmail.com)         |                                                                                                             |
-| Media / Free Press                 | [indivisibleberkeley+freepress@gmail.com](mailto:indivisibleberkeley+freepress@gmail.com)       |                                                                                                             |
-| Fine Arts & Public Media           | [indivisibleberkeley+arts@gmail.com](mailto:indivisibleberkeley+arts@gmail.com)                 |                                                                                                             |
+| Team Name                          | Facilitation Email                                                                              | Email List                                                                        |
+|------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Democratic Governance & Elections  | [indivisibleberkeley+elections@gmail.com](mailto:indivisibleberkeley+elections@gmail.com)       | [Google Group](mailto:indivisible-berkeley-elections+subscribe@googlegroups.com)  |
+| Economic Justice                   | [indivisibleberkeley+economics@gmail.com](mailto:indivisibleberkeley+economics@gmail.com)       | [Google Group](mailto:indivisibleberkeley-economics+subscribe@googlegroups.com)   |
+| Education                          | [indivisibleberkeley+education@gmail.com](mailto:indivisibleberkeley+education@gmail.com)       |                                                                                   |
+| Healthcare                         | [indivisibleberkeley+health@gmail.com](mailto:indivisibleberkeley+health@gmail.com)             | [Google Group](mailto:indivisibleberkeley-healthcare+subscribe@googlegroups.com)  |
+| Racism & Criminal Justice Reform   | [indivisibleberkeley+justice@gmail.com](mailto:indivisibleberkeley+justice@gmail.com)           |                                                                                   |
+| Immigration                        | [indivisibleberkeley+immigration@gmail.com](mailto:indivisibleberkeley+immigration@gmail.com)   |                                                                                   |
+| Foreign Policy                     | [indivisibleberkeley+foreign@gmail.com](mailto:indivisibleberkeley+foreign@gmail.com)           |                                                                                   |
+| Science & Environment              | [indivisibleberkeley+environment@gmail.com](mailto:indivisibleberkeley+environment@gmail.com)   | [Google Group](mailto:indivisibleberkeley-environment+subscribe@googlegroups.com) |
+| Gender Equality & LGBTQ Rights     | [indivisibleberkeley+equality@gmail.com](mailto:indivisibleberkeley+equality@gmail.com)         |                                                                                   |
+| Media / Free Press                 | [indivisibleberkeley+freepress@gmail.com](mailto:indivisibleberkeley+freepress@gmail.com)       |                                                                                   |
+| Fine Arts & Public Media           | [indivisibleberkeley+arts@gmail.com](mailto:indivisibleberkeley+arts@gmail.com)                 |                                                                                   |
 
 
 ## Internal Teams
