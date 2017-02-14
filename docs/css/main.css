@@ -87,12 +87,13 @@ footer ul li {
 
 
 
+ViewFormBanner {
+    height: 120px;
+}
 
-
-
-
-
-
+.freebirdFormviewerViewFooterImageContainer {
+	display: none;
+}
 
 
 
