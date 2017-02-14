@@ -6,9 +6,7 @@ nav: true
 navsort: 4
 ---
 
-We need your help to formulate an effective mission statement.  Please read the draft statements below and email [indivisibleberkeley+mission@gmail.com](mailto:indivisibleberkeley+mission@gmail.com) with your feedback!
-
-Send us an email and you'll receive an invite to a mission statement discussion that will occur sometime before the next general meeting.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewTM7kU-SB-gF9MYnN4b5A6te6LEb6k37pkQiKizv_XJBh2g/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ----
 
