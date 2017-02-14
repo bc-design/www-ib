@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feeback
+title: Feedback
 permalink: feedback
 nav: true
 navsort: 5
