@@ -13,12 +13,12 @@ We are organizing into teams that will lead the effort to research and plan acti
 
 | Team Name                          | Facilitation Email                                                                              | Email List                                                                        |
 |------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Science & Environment              | [indivisibleberkeley+environment@gmail.com](mailto:environment+owner@indivisibleberkeley.org)   | [Google Group](mailto:environment+subscribe@indivisibleberkeley.org)              |
-| Healthcare                         | [indivisibleberkeley+health@gmail.com](mailto:healthcare+owner@indivisibleberkeley.org)         | [Google Group](mailto:healthcare+subscribe@indivisibleberkeley.org)               |
-| Racism & Criminal Justice Reform   | [indivisibleberkeley+justice@gmail.com](mailto:rcjr+owner@indivisibleberkeley.org)              | [Google Group](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
-| Democratic Governance & Elections  | [indivisibleberkeley+elections@gmail.com](mailto:elections+owner@indivisibleberkeley.org)       | [Google Group](mailto:elections+subscribe@indivisibleberkeley.org)                |
-| Economic Justice                   | [indivisibleberkeley+economics@gmail.com](mailto:indivisibleberkeley+economics@gmail.com)       | [Google Group](mailto:indivisibleberkeley-economics+subscribe@googlegroups.com)   |
-| Education                          | [indivisibleberkeley+education@gmail.com](mailto:indivisibleberkeley+education@gmail.com)       | [Google Group](mailto:indivisible-berkeley-education+subscribe@googlegroups.com)  |
+| Science & Environment              | [environment+owner@indivisibleberkeley.org](mailto:environment+owner@indivisibleberkeley.org)   | [Sign Up](mailto:environment+subscribe@indivisibleberkeley.org)              |
+| Healthcare                         | [healthcare+owner@indivisibleberkeley.org](mailto:healthcare+owner@indivisibleberkeley.org)     | [Sign Up](mailto:healthcare+subscribe@indivisibleberkeley.org)               |
+| Racism & Criminal Justice Reform   | [rcjr+owner@indivisibleberkeley.org](mailto:rcjr+owner@indivisibleberkeley.org)                 | [Sign Up](mailto:rcjr+subscribe@indivisibleberkeley.org)                     |
+| Democratic Governance & Elections  | [elections+owner@indivisibleberkeley.org](mailto:elections+owner@indivisibleberkeley.org)       | [Sign Up](mailto:elections+subscribe@indivisibleberkeley.org)                |
+| Economic Justice                   | [indivisibleberkeley+economics@gmail.com](mailto:indivisibleberkeley+economics@gmail.com)       | [Sign Up](mailto:indivisibleberkeley-economics+subscribe@googlegroups.com)   |
+| Education                          | [indivisibleberkeley+education@gmail.com](mailto:indivisibleberkeley+education@gmail.com)       | [Sign Up](mailto:indivisible-berkeley-education+subscribe@googlegroups.com)  |
 | Immigration                        | [indivisibleberkeley+immigration@gmail.com](mailto:indivisibleberkeley+immigration@gmail.com)   | |
 | Foreign Policy                     | [indivisibleberkeley+foreign@gmail.com](mailto:indivisibleberkeley+foreign@gmail.com)           | |
 | Gender Equality & LGBTQ Rights     | [indivisibleberkeley+equality@gmail.com](mailto:indivisibleberkeley+equality@gmail.com)         | |
@@ -30,17 +30,17 @@ We are organizing into teams that will lead the effort to research and plan acti
 
 We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
 
-| Team Name                          | Facilitation Email                                                                              | Email List   |
-|------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
-| IT & Internal Communications       | [indivisibleberkeley+it@gmail.com](mailto:communications+owner@indivisibleberkeley.org)         | [Google Group](mailto:communications+subscribe@indivisibleberkeley.org) |
-| Big Ideas & Innovation             | [indivisibleberkeley+ideas@gmail.com](mailto:indivisibleberkeley+ideas@gmail.com)               |              |
-| Large Group Event Facilitation     | [indivisibleberkeley+events@gmail.com](mailto:indivisibleberkeley+events@gmail.com)             |              |
-| Finance                            | [indivisibleberkeley+finance@gmail.com](mailto:indivisibleberkeley+finance@gmail.com)           |              |
-| Partnerships                       | [indivisibleberkeley+partnerships@gmail.com](mailto:indivisibleberkeley+partnerships@gmail.com) |              |
-| Research & Insights                | [indivisibleberkeley+insights@gmail.com](mailto:indivisibleberkeley+insights@gmail.com)         |              |
-| Social Gatherings                  | [indivisibleberkeley+social@gmail.com](mailto:indivisibleberkeley+social@gmail.com)             |              |
-| Trainings                          | [indivisibleberkeley+training@gmail.com](mailto:indivisibleberkeley+training@gmail.com)         |              |
-| Mission Statement Feedback         | [indivisibleberkeley+mission@gmail.com](mailto:indivisibleberkeley+mission@gmail.com)           |              |
+| Team Name                          | Facilitation Email                                                                                  | Email List   |
+|------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
+| IT & Internal Communications       | [communications+owner@indivisibleberkeley.org](mailto:communications+owner@indivisibleberkeley.org) | [Sign Up](mailto:communications+subscribe@indivisibleberkeley.org) |
+| Partnerships                       | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     |              |
+| Big Ideas & Innovation             | [indivisibleberkeley+ideas@gmail.com](mailto:indivisibleberkeley+ideas@gmail.com)                   |              |
+| Large Group Event Facilitation     | [indivisibleberkeley+events@gmail.com](mailto:indivisibleberkeley+events@gmail.com)                 |              |
+| Finance                            | [indivisibleberkeley+finance@gmail.com](mailto:indivisibleberkeley+finance@gmail.com)               |              |
+| Research & Insights                | [indivisibleberkeley+insights@gmail.com](mailto:indivisibleberkeley+insights@gmail.com)             |              |
+| Social Gatherings                  | [indivisibleberkeley+social@gmail.com](mailto:indivisibleberkeley+social@gmail.com)                 |              |
+| Trainings                          | [indivisibleberkeley+training@gmail.com](mailto:indivisibleberkeley+training@gmail.com)             |              |
+| Mission Statement Feedback         | [indivisibleberkeley+mission@gmail.com](mailto:indivisibleberkeley+mission@gmail.com)               |              |
 
 
 ## Slack
