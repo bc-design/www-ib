@@ -110,6 +110,23 @@ $('#filter-website').click(function() {
   return false;
 });
 
+$('#filter-elist').click(function() {
+  contentList.filter(function(item) {
+    if (item.values().format == "Email List") {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  return false;
+});
+
+
+
+
+
+
+
 $('#filter-social').click(function() {
   contentList.filter(function(item) {
     if (item.values().category == "Social") {
