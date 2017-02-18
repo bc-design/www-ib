@@ -30,17 +30,17 @@ We are organizing into teams that will lead the effort to research and plan acti
 
 We also have internal teams that keep the organization running smoothly.  Email us for learn more about a team!
 
-| Team Name                          | Facilitation Email                                                                                  | Email List   |
-|------------------------------------|-----------------------------------------------------------------------------------------------------|--------------|
+| Team Name                          | Facilitation Email                                                                                  | Email List                                                         |
+|------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | IT & Internal Communications       | [communications+owner@indivisibleberkeley.org](mailto:communications+owner@indivisibleberkeley.org) | [Sign Up](mailto:communications+subscribe@indivisibleberkeley.org) |
-| Partnerships                       | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     |              |
-| Big Ideas & Innovation             | [indivisibleberkeley+ideas@gmail.com](mailto:indivisibleberkeley+ideas@gmail.com)                   |              |
-| Large Group Event Facilitation     | [indivisibleberkeley+events@gmail.com](mailto:indivisibleberkeley+events@gmail.com)                 |              |
-| Finance                            | [indivisibleberkeley+finance@gmail.com](mailto:indivisibleberkeley+finance@gmail.com)               |              |
-| Research & Insights                | [indivisibleberkeley+insights@gmail.com](mailto:indivisibleberkeley+insights@gmail.com)             |              |
-| Social Gatherings                  | [indivisibleberkeley+social@gmail.com](mailto:indivisibleberkeley+social@gmail.com)                 |              |
-| Trainings                          | [indivisibleberkeley+training@gmail.com](mailto:indivisibleberkeley+training@gmail.com)             |              |
-| Mission Statement Feedback         | [indivisibleberkeley+mission@gmail.com](mailto:indivisibleberkeley+mission@gmail.com)               |              |
+| Partnerships                       | [partnerships+owner@indivisibleberkeley.org](mailto:partnerships+owner@indivisibleberkeley.org)     | [Sign Up](mailto:partnerships+subscribe@indivisibleberkeley.org)   |
+| Big Ideas & Innovation             | [indivisibleberkeley+ideas@gmail.com](mailto:indivisibleberkeley+ideas@gmail.com)                   | [Sign Up](mailto:ideas+subscribe@indivisibleberkeley.org)          |
+| Large Group Event Facilitation     | [indivisibleberkeley+events@gmail.com](mailto:indivisibleberkeley+events@gmail.com)                 | [Sign Up](mailto:events+subscribe@indivisibleberkeley.org)         |
+| Finance                            | [indivisibleberkeley+finance@gmail.com](mailto:indivisibleberkeley+finance@gmail.com)               | [Sign Up](mailto:finance+subscribe@indivisibleberkeley.org)        |
+| Research & Insights                | [indivisibleberkeley+insights@gmail.com](mailto:indivisibleberkeley+insights@gmail.com)             | [Sign Up](mailto:insights+subscribe@indivisibleberkeley.org)       |
+| Social Gatherings                  | [indivisibleberkeley+social@gmail.com](mailto:indivisibleberkeley+social@gmail.com)                 | [Sign Up](mailto:social+subscribe@indivisibleberkeley.org)         |
+| Training                           | [indivisibleberkeley+training@gmail.com](mailto:indivisibleberkeley+training@gmail.com)             | [Sign Up](mailto:training+subscribe@indivisibleberkeley.org)       |
+| Mission Statement Feedback         | [indivisibleberkeley+mission@gmail.com](mailto:indivisibleberkeley+mission@gmail.com)               | [Sign Up](mailto:mission+subscribe@indivisibleberkeley.org)        |
 
 
 ## Slack
