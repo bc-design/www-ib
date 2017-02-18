@@ -112,7 +112,7 @@ $('#filter-website').click(function() {
 
 $('#filter-social').click(function() {
   contentList.filter(function(item) {
-    if (item.values().format == "Social") {
+    if (item.values().category == "Social") {
       return true;
     } else {
       return false;
