@@ -8,6 +8,11 @@
     {% if page.math %}
     	{% include math.html %}
     {% endif %}
+    
+    <!-- a liquid tag for inserting the scripts for enabling list.js -->
+    {% if page.list %}
+    	{% include list.html %}
+    {% endif %}
 
     <!-- a "liquid tag" for inserting text from the metadata
       provided in the markdown doc's YAML frontmatter -->
