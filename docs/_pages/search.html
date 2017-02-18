@@ -10,7 +10,7 @@ list: true
 <!-- BEGIN OMNIBOX -->
 
 <div id="container">
-<h2>|IB| OMNIBOX - Search Our Stuff</h2>
+<h2>Indivisible Berkeley OMNISEARCH - Search Our Stuff</h2>
 
 <div id="content-list"> <!-- begin list -->
 <form>
@@ -34,6 +34,16 @@ list: true
   </button>
   <button class="filter" id="filter-science">
 		Science
+  </button>
+</p>
+
+<p style="display:none;">
+	Category:
+  <button class="filter" id="filter-admin">
+		Admin
+  </button>
+  <button class="filter" id="filter-contrib">
+		Education
   </button>
 </p>
 
@@ -64,6 +74,21 @@ list: true
     Review
   </button>
 </p>
+
+<p style="display:none;">
+	Format:
+  <button class="filter" id="filter-social">
+    Social
+  </button>
+  <button class="filter" id="filter-website">
+    Website
+  </button>
+  <button class="filter" id="filter-drive">
+    Google Drive
+  </button>
+</p>
+
+
 </form>
 
 <ul class="list">
@@ -292,7 +317,7 @@ list: true
 <li class='data'>
     <a target='_blank' href='http://indivisibleberkeley.com/calendar'><h3><span class='title'>IB.com Calendar</span></h3></a>
     <h4>
-      <span class='format'>Web</span>
+      <span class='format'>Website</span>
       &#x2014;
       <span class='category'>Admin</span>
     </h4>

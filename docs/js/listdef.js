@@ -1,5 +1,5 @@
 var options = {
-  valueNames: [ 'title', 'format', 'category', 'research', 'affiliation', 'position' ]
+  valueNames: [ 'title', 'format', 'category', 'description' ]
 };
 
 var contentList = new List('content-list', options);
@@ -11,9 +11,9 @@ $('#search-reset').click(function() {
   return false;
 });
 
-$('#filter-ucc').click(function() {
+$('#filter-wiki').click(function() {
   contentList.filter(function(item) {
-    if (item.values().affiliation == "University of Cape Coast (UCC)") {
+    if (item.values().format == "Wiki") {
       return true;
     } else {
       return false;
@@ -22,9 +22,9 @@ $('#filter-ucc').click(function() {
   return false;
 });
 
-$('#filter-inrab').click(function() {
+$('#filter-drive').click(function() {
   contentList.filter(function(item) {
-    if (item.values().affiliation == "INRAB") {
+    if (item.values().format == "Google Drive") {
       return true;
     } else {
       return false;
@@ -33,9 +33,9 @@ $('#filter-inrab').click(function() {
   return false;
 });
 
-$('#filter-uac').click(function() {
+$('#filter-blog').click(function() {
   contentList.filter(function(item) {
-    if (item.values().affiliation == "University of Abomey Calavi") {
+    if (item.values().format == "Blog") {
       return true;
     } else {
       return false;
@@ -44,9 +44,9 @@ $('#filter-uac').click(function() {
   return false;
 });
 
-$('#filter-iita').click(function() {
+$('#filter-app').click(function() {
   contentList.filter(function(item) {
-    if (item.values().affiliation == "IITA") {
+    if (item.values().format == "App") {
       return true;
     } else {
       return false;
@@ -55,9 +55,9 @@ $('#filter-iita').click(function() {
   return false;
 });
 
-$('#filter-cirad').click(function() {
+$('#filter-video').click(function() {
   contentList.filter(function(item) {
-    if (item.values().affiliation == "CIRAD") {
+    if (item.values().format == "Video") {
       return true;
     } else {
       return false;
@@ -91,6 +91,28 @@ $('#filter-literature').click(function() {
 $('#filter-review').click(function() {
   contentList.filter(function(item) {
     if (item.values().format == "Review") {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  return false;
+});
+
+$('#filter-website').click(function() {
+  contentList.filter(function(item) {
+    if (item.values().format == "Website") {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  return false;
+});
+
+$('#filter-social').click(function() {
+  contentList.filter(function(item) {
+    if (item.values().format == "Social") {
       return true;
     } else {
       return false;
@@ -148,6 +170,28 @@ $('#filter-science').click(function() {
 $('#filter-fun').click(function() {
   contentList.filter(function(item) {
     if (item.values().category == "Fun") {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  return false;
+});
+
+$('#filter-admin').click(function() {
+  contentList.filter(function(item) {
+    if (item.values().category == "Admin") {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  return false;
+});
+
+$('#filter-contrib').click(function() {
+  contentList.filter(function(item) {
+    if (item.values().category == "Contribution") {
       return true;
     } else {
       return false;
